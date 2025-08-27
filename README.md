@@ -1,4 +1,4 @@
-# Certificates
+# Professional-Certificates
 
 # 🎓 Kenechukwu Enem – Professional Certifications
 
