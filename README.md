@@ -19,7 +19,7 @@ Welcome to my certification portfolio! This repository highlights my commitment 
 
 - **Issuer**: Corporate Finance Institute (CFI)  
 - **Skills**: Excel modeling, DCF valuation, scenario analysis  
-- [View Certificate](Financial_Modeling/fmva-certificate.pdf)
+- [View Certificate](Financial_Modelling/fmva-certificate.pdf)
 
 ## 🧪 Forage Virtual Experience Programs
 
